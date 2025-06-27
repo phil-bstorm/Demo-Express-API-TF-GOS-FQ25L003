@@ -29,7 +29,7 @@ Une API backend simple basée sur Express.js avec Docker et Node.js.
 3. **Installer les dépendances**
 
    ```bash
-   cd ../app
+   cd ../
    npm install
    ```
 
